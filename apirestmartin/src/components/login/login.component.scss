@@ -1,0 +1,15 @@
+.ContainerForm {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(112, 112, 112);
+  padding: 20px 20px;
+  border-radius: 10px;
+}

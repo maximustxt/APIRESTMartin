@@ -1,0 +1,23 @@
+.example-card {
+  max-width: 400px;
+}
+
+.ContainerCard {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px;
+}
+
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.BtnLogout {
+  margin: 15px;
+}
